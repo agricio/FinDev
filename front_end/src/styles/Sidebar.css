@@ -1,0 +1,69 @@
+aside {
+    width: 360px;
+    background: #202124;
+    box-shadow: 0 0 14px 0 rgba(0, 0, 0, 0.02);
+    border-radius: 2px;
+    padding: 30px 20px;
+  }
+  
+  aside strong {
+    font-size: 20px;
+    text-align: center;
+    display: block;
+    color: #fff;
+    margin-bottom: 20px;
+  }
+  
+  aside + aside {
+    margin-top: 30px;
+  }
+
+aside form .input-block + .input-block{
+    margin-top: 30px;
+}
+
+aside form .input-group {
+    margin-top: 20px;
+    display: grid;
+    gap: 20px;
+    grid-template-columns: 1fr 1fr;
+}
+
+aside form .input-group .input-block {
+    margin-top: 0;
+}
+
+aside form .input-block label {
+    color: #acacac;
+    font-size: 16px;
+    font-weight: bold;
+    display: block;
+}
+
+aside form .input-block input {
+    width: 100%;
+    height: 32;
+    font-size: 16px;
+    color: #666;
+    border: 0;
+    border-bottom:  3px solid #eee;
+    text-indent: 7px;
+}
+
+aside form button[type=submit] {
+    width: 100%;
+    border: 0;
+    border-radius: 5px;
+    margin-top: 30px;
+    background: #0f4c75;
+    padding: 15px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #FFFFFF;
+    cursor: pointer;
+    transition: background 0.5s;
+}
+
+aside form button[type=submit]:hover {
+    background: #3282b8;
+}
