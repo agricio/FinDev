@@ -29,11 +29,9 @@
 
  </br>
  
-<img src="https://github.com/radaelilucca/FinDevs/blob/master/Assets/FindevsToReadme.png?raw=true" width=950px />
+## :rocket: Tecnologies
 
-## :rocket: Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [Socket.io](https://socket.io/)
@@ -44,13 +42,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 The Project
 
-FinDevs is a project that see connect developers near of you trabalham com as mesmas tecnologias.
-Desenvolvido durante a Semana Omnistack 10.0 da <a href="https://rocketseat.com.br/">Rocketseat</a>!
+FinDevs is a project that see connect developers near of you that works the same tecnologies.
 
-<h3> 📱 Imagens do Projeto Mobile </br> </br>
+<h3> 📱 Images of Project Mobile </br> </br>
   <p  align="center">
   <img src="https://github.com/agricio/FinDev/blob/master/assets/android02.png?raw=true" width=30% />
   <img src="https://github.com/agricio/FinDev/blob/master/assets/android03.png?raw=true" width=30% />
+  </p>
+ </h3>
+ 
+ <h3> 📱 Images of Project Mobile-Expo </br> </br>
+  <p  align="center">
+  <img src="https://github.com/agricio/FinDev/blob/master/assets/ios.jpg?raw=true" width=30% />
+  <img src="https://github.com/agricio/FinDev/blob/master/assets/ios2.jpg?raw=true" width=30% />
   </p>
  </h3>
  
@@ -62,19 +66,20 @@ Desenvolvido durante a Semana Omnistack 10.0 da <a href="https://rocketseat.com.
 
 ## 👨‍🏫 Run The Project
 
-Execute o comando yarn nas pastas do projeto para baixar todas as depêndencias necesárias para rodar a aplicação.
-for install the dependencies you nedd execulte the comands:
+You need execulte the commands for install the project dependencies this is nessecary por rum the aplications:
 
 <h4> Use NPM: </h4>
+
 ````
 <aplication_folder>: npm intall
 ````
 <h4> Use yarn: </h4>
+
 ````
 <aplication_folder>: yarn intall
 ````
 
-<h4> Inicie o projeto em modo desenvolvimento com os seguintes comandos: </h4>
+<h4> For start the projects you need execulte the commands: </h4>
 
 <h4> Front-end: </h4>
 
@@ -88,7 +93,7 @@ for install the dependencies you nedd execulte the comands:
 <back-end fonder>: node src/index.js
 ````
 <h5>
-Para testes, utilize um client de requisições http, como Insomnia ou Postman, e um banco de dados Mongo, local, com Docker ou online com o MongoDb Atlas.
+For testing, use an http request client, such as Insomnia or Postman, and a Mongo, local, or MongoDb Atlas database.
 </h5>
   
 <h4> Native-Mobile: </h4>
