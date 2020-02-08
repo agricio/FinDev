@@ -29,7 +29,7 @@
 
  </br>
  
-<img src="https://github.com/radaelilucca/FinDevs/blob/master/Assets/FindevsToReadme.png?raw=true" width=990px />
+<img src="https://github.com/radaelilucca/FinDevs/blob/master/Assets/FindevsToReadme.png?raw=true" width=950px />
 
 ## :rocket: Tecnologias
 
@@ -93,17 +93,18 @@ expo start
 Para testes, utilize dispositivo físico, ou emuladores como o Simulador do XCode para iOS, ou AVD do AndroidStudio para Android. 
 </h5>
 
-## 🏗️ Buildando o Aplicativo Móvel
+## 🏗️ Build the Mobile Aplication
   
-Para buildar o aplicativo em APK ou IPA, é necessário preencher devidamente o arquivo App.Json. Consulte as instruções nas <a href="https://docs.expo.io/versions/latest/distribution/building-standalone-apps/">Documentações do Expo </a> para mais informações.  
+For build the aplication in APK or IPA, it is necessary preencher devidamente the file App.Json. Consult the instructions in <a href="https://docs.expo.io/versions/latest/distribution/building-standalone-apps/">Expo documentation </a> for more informations.
+
 Neste passo, é de suma importância usar uma Google Api Key correta, caso contrário o mapa não funcionará em dispositivos Android.
 
-<h4> 🚩Lembre-se de renomear o arquivo .env.example para .env, e preencher as variáveis de ambiente. </h4>
+<h4> 🚩remember! re-name the file .env.example for .env, e preencher as variáveis de ambiente. </h4>
 </br>
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+this project are about MIT licence. [LICENSE](LICENSE.md) for more dectails.
 
  ## :phone: Contato 
  
@@ -111,6 +112,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
   
   <p>
     <a href="https://www.linkedin.com/in/agr%C3%ADcio-neto-20a62913b/">
-      <img src="https://github.com/radaelilucca/FinDevs/blob/master/Assets/Linkedin.png?raw=true" width=15%/> 
+      <img src="https://github.com/agricio/FinDev/blob/master/assets/LinkedIn_logo.png?raw=true" width=50px/> 
       </a>
   </p>
