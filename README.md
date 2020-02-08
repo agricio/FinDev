@@ -42,13 +42,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-## 💻 Projeto
+## 💻 The Project
 
-O FinDevs é um projeto que visa conectar desenvolvedores próximos a você que trabalham com as mesmas tecnologias.
+FinDevs is a project that see connect developers near of you trabalham com as mesmas tecnologias.
 Desenvolvido durante a Semana Omnistack 10.0 da <a href="https://rocketseat.com.br/">Rocketseat</a>!
-
-<p> Acesse a versão web em: <a href="https://bit.ly/36o1TwB"> FinDevs Web</a>! </p>
-<p>Baixe a versão mobile na <a href="https://lnkd.in/eSWXRuy"> Google Play Store </a>!</p>
 
 <h3> 📱 Imagens do Projeto Mobile </br> </br>
   <p  align="center">
@@ -56,34 +53,51 @@ Desenvolvido durante a Semana Omnistack 10.0 da <a href="https://rocketseat.com.
   </p>
  </h3>
  
- <h3> 🖱️ Imagem do Projeto Web </br> </br>
+ <h3> 🖱️ Image to Web Project </br> </br>
   <p  align="center">
-<img src="https://github.com/radaelilucca/FinDevs/blob/master/Assets/Web.png?raw=true" width=90% />
+<img src="https://github.com/agricio/FinDev/blob/master/assets/web.png?raw=true" width=80% />
   </p>
  </h3>
 
-## 👨‍🏫 Executando
+## 👨‍🏫 Run The Project
 
 Execute o comando yarn nas pastas do projeto para baixar todas as depêndencias necesárias para rodar a aplicação.
+for install the dependencies you nedd execulte the comands:
+
+<h4> Use NPM: </h4>
+````
+<aplication_folder>: npm intall
+````
+<h4> Use yarn: </h4>
+````
+<aplication_folder>: yarn intall
+````
 
 <h4> Inicie o projeto em modo desenvolvimento com os seguintes comandos: </h4>
 
 <h4> Front-end: </h4>
 
 ````
-yarn start
+<back-end fonder>: yarn start
 ````
 
 <h4> Back-end: </h4>
 
 ````
-yarn dev
+<back-end fonder>: node src/index.js
 ````
 <h5>
 Para testes, utilize um client de requisições http, como Insomnia ou Postman, e um banco de dados Mongo, local, com Docker ou online com o MongoDb Atlas.
 </h5>
   
-<h4> Mobile: </h4>
+<h4> Native-Mobile: </h4>
+
+````
+<mobile fonder>: react-native run-android
+````
+The native mobile needs the inception the googleMaps API KEY in the file to works. That can added in the file: FinDev\android\app\src\main\AndroidManifest.xml
+
+<h4> Mobile-expo: </h4>
 
 ````
 expo start
@@ -95,16 +109,16 @@ Para testes, utilize dispositivo físico, ou emuladores como o Simulador do XCod
 
 ## 🏗️ Build the Mobile Aplication
   
-For build the aplication in APK or IPA, it is necessary preencher devidamente the file App.Json. Consult the instructions in <a href="https://docs.expo.io/versions/latest/distribution/building-standalone-apps/">Expo documentation </a> for more informations.
+For build the aplication in APK or IPA, it is necessary fill correctly the file App.Json. Consult the instructions in <a href="https://docs.expo.io/versions/latest/distribution/building-standalone-apps/">Expo documentation </a> for more informations.
 
 Neste passo, é de suma importância usar uma Google Api Key correta, caso contrário o mapa não funcionará em dispositivos Android.
 
-<h4> 🚩remember! re-name the file .env.example for .env, e preencher as variáveis de ambiente. </h4>
+<h4> 🚩remember! re-name the file .env.example for .env, and fill the environment variables. </h4>
 </br>
 
 ## :memo: Licença
 
-this project are about MIT licence. [LICENSE](LICENSE.md) for more dectails.
+this project are in MIT licence. [LICENSE](LICENSE.md) for more dectails.
 
  ## :phone: Contato 
  
