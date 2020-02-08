@@ -20,7 +20,7 @@
 
 </br>
 <h5 align="center">
-  :rocket: <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  :rocket: <a href="#rocket-tecnologias">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   💻 <a href="#-projeto">Projet</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;    
   👨‍🏫 <a href="#-executando">how do rum the Projet</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   :memo:<a href="#memo-licença">Licence</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -126,10 +126,8 @@ Neste passo, é de suma importância usar uma Google Api Key correta, caso contr
 
 this project are in MIT licence. [LICENSE](LICENSE.md) for more dectails.
 
- ## :phone: Contato 
+ ## :phone: Contat
  
- <h4>Gostou do Projeto e quer conversar sobre? Me chama pra gente trocar uma idéia! </h4>
-  
   <p>
     <a href="https://www.linkedin.com/in/agr%C3%ADcio-neto-20a62913b/">
       <img src="https://github.com/agricio/FinDev/blob/master/assets/LinkedIn_logo.png?raw=true" width=50px/> 
