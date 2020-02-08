@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://github.com/radaelilucca/FinDevs/blob/master/Assets/Logo3.png?raw=true" width=30% />
+  FinDev
  </h1>
 
 <h4 align="center">
-  🐱‍💻 Desenvolvido na Semana OmniStack 10.0 (Rocketseat!) 🐱‍💻
+     Developed in OmniStack weak 10.0 Rocketseat
 </h4>
 
 <p align="center">
