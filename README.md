@@ -21,11 +21,10 @@
 </br>
 <h5 align="center">
   :rocket: <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  💻 <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;    
-  👨‍🏫 <a href="#-executando">Como Executar o Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  ➕ <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  :memo:<a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  :phone: <a href="#phone-contato">Contato</a>
+  💻 <a href="#-projeto">Projet</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;    
+  👨‍🏫 <a href="#-executando">how do rum the Projet</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  :memo:<a href="#memo-licença">Licence</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  :phone: <a href="#phone-contato">Contact</a>
 </h5>
 
  </br>
@@ -102,26 +101,16 @@ Neste passo, é de suma importância usar uma Google Api Key correta, caso contr
 <h4> 🚩Lembre-se de renomear o arquivo .env.example para .env, e preencher as variáveis de ambiente. </h4>
 </br>
 
-## ➕ Como contribuir
-- Primeiramente deixe uma ⭐! 
-- Faça um fork dos repositórios em produção, pois estes estão atualizados: <a href="https://github.com/radaelilucca/findevs-backend">Back-end</a> | <a href="https://github.com/radaelilucca/findevs-frontend">Front-end</a> | <a href="https://github.com/radaelilucca/findevs-mobile">Mobile</a>;
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`;
-- Faça push para a sua branch: `git push origin minha-feature`.
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-
  ## :phone: Contato 
-
  
  <h4>Gostou do Projeto e quer conversar sobre? Me chama pra gente trocar uma idéia! </h4>
   
-  
   <p>
-    <a href="https://www.linkedin.com/in/luccaradaeli/">
+    <a href="https://www.linkedin.com/in/agr%C3%ADcio-neto-20a62913b/">
       <img src="https://github.com/radaelilucca/FinDevs/blob/master/Assets/Linkedin.png?raw=true" width=15%/> 
       </a>
   </p>
