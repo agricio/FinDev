@@ -110,14 +110,14 @@ expo start
 ````
 
 <h5> 
-Para testes, utilize dispositivo físico, ou emuladores como o Simulador do XCode para iOS, ou AVD do AndroidStudio para Android. 
+For testing, use a physical device, or emulators like the XCode Simulator for iOS, or AVD from AndroidStudio for Android. 
 </h5>
 
 ## 🏗️ Build the Mobile Aplication
   
 For build the aplication in APK or IPA, it is necessary fill correctly the file App.Json. Consult the instructions in <a href="https://docs.expo.io/versions/latest/distribution/building-standalone-apps/">Expo documentation </a> for more informations.
 
-Neste passo, é de suma importância usar uma Google Api Key correta, caso contrário o mapa não funcionará em dispositivos Android.
+In this step, it is extremely important to use a correct Google Api Key, otherwise the map will not work on Android devices.
 
 <h4> 🚩remember! re-name the file .env.example for .env, and fill the environment variables. </h4>
 </br>
