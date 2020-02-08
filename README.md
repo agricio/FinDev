@@ -122,7 +122,7 @@ Neste passo, é de suma importância usar uma Google Api Key correta, caso contr
 <h4> 🚩remember! re-name the file .env.example for .env, and fill the environment variables. </h4>
 </br>
 
-## :memo: Licença
+## :memo: Licence
 
 this project are in MIT licence. [LICENSE](LICENSE.md) for more dectails.
 
